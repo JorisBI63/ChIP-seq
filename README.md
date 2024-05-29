@@ -7,4 +7,4 @@ Pipeline for ChIP-sequencing processing
 3) Filter mapping reads
 4) Peaks calling
 
-
+""" bash trim.sh """

@@ -8,7 +8,7 @@ Create a conda environment on your server which you can call ChIP-seq environmen
 
 activate the environment:
 
-'conda activate chipseq`
+`conda activate chipseq`
 
 Install fastqc (quality control):
 `conda install bioconda::fastqc` 

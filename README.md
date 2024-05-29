@@ -11,5 +11,8 @@ Pipeline for ChIP-sequencing processing
 
 ### 1.Trimming 
 
+`bash trim .sh` 
+
+
 ## Visualization 
 

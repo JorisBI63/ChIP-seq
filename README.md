@@ -4,6 +4,12 @@ Workflow for ChIP-sequencing processing
 ## Install tools for the pipeline
 Create a conda environment on your server which you can call ChIP-seq environment.
 
+`conda create -n chipseq`
+
+activate the environment:
+
+'conda activate chipseq`
+
 Install fastqc (quality control):
 `conda install bioconda::fastqc` 
 
